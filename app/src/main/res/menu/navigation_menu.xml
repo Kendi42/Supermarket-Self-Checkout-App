@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_findAisle"
+        android:icon="@drawable/search"
+        android:iconTint="#212121"
+        android:title="Find Product Aisle" />
+
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/account"
+        android:iconTint="#212121"
+        android:title="My Account" />
+
+    <item
+        android:id="@+id/nav_receipts"
+        android:icon="@drawable/receipt"
+        android:iconTint="#8BC34A"
+        android:title="My Receipts" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Logout" />
+
+</menu>
