@@ -24,8 +24,8 @@ This is an individual project with no other collaborators
 <img src="https://github.com/Kendi42/Supermarket-Self-Checkout-App/blob/73df9f07ac6f829e1423cb359e240765ba22542e/Application%20Screenshots/createAccount.jpeg" width="200" height="400"/>
 
 ## Home page- Shopping List Tab
-<p>Once a user has succesfully logged in, they are directed to the Application Home page. Here there are two tabs: the Shoppig List tab and the Cart tab. The user can easily swipe between these two tabs. Lastly, the home page contains a camera button. This button allows the user to scan their shoppign item.</p>
-<p>The Shopping List Tab allows the user to create their shopping list from items avaialable in the supermarket. The user can also increase or reduce the quantity of the item they have added as well as delete it all together. The shoppign list also provides the user with cost estimates of the items they have added. </p>
+<p>Once a user has succesfully logged in, they are directed to the Application Home page. Here there are two tabs: the Shoppig List tab and the Cart tab. The user can easily swipe between these two tabs. Lastly, the home page contains a camera button. This button allows the user to scan their shopping item.</p>
+<p>The Shopping List Tab allows the user to create their shopping list from items avaialable in the supermarket. The user can also increase or reduce the quantity of the item they have added as well as delete it all together. The shopping list also provides the user with cost estimates of the items they have added. </p>
 <img src="https://github.com/Kendi42/Supermarket-Self-Checkout-App/blob/73df9f07ac6f829e1423cb359e240765ba22542e/Application%20Screenshots/shoppinglist.jpeg" width="200" height="400"/>
 
 ### On Clicking "ADD"
@@ -37,7 +37,7 @@ This is an individual project with no other collaborators
 <img src="https://github.com/Kendi42/Supermarket-Self-Checkout-App/blob/73df9f07ac6f829e1423cb359e240765ba22542e/Application%20Screenshots/cart.jpeg" width="200" height="400"/>
 
 ## Scanner
-<p>The scanner is accessed by clickign the camera icon on the home page. This scanner allows users to scan the item bar codes in order to add them to their cart. </p>
+<p>The scanner is accessed by clicking the camera icon on the home page. This scanner allows users to scan the item bar codes in order to add them to their cart. </p>
 <img src="https://github.com/Kendi42/Supermarket-Self-Checkout-App/blob/73df9f07ac6f829e1423cb359e240765ba22542e/Application%20Screenshots/cameraScanner.jpeg" width="200" height="400"/>
 
 ### On Scanning
@@ -65,7 +65,7 @@ This is an individual project with no other collaborators
 
 ## Additional Functionality
 ### Side Bar
-<p>The application Side Bar found on the Homepage allows the user to access some additional functionality of the application such as seeing their Receipts, seeing their account information and serachign for the isle of particular products</p>
+<p>The application Side Bar found on the Homepage allows the user to access some additional functionality of the application such as seeing their receipts, seeing their account information and searchign for the isle of particular products</p>
 <img src="https://github.com/Kendi42/Supermarket-Self-Checkout-App/blob/73df9f07ac6f829e1423cb359e240765ba22542e/Application%20Screenshots/sidebar.jpeg" width="200" height="400"/>
 
 ### Finding Product Isle
