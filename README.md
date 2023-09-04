@@ -1,9 +1,6 @@
 # Supermarket-Self-Checkout-App
 This is an Android mobile application that allows users to self checkout at a supermarket. This is done by scanning the shopping items with the scanner on the app, and eventually paying for the scanned items using M-Pesa. This application was created to combat long queues in supermarkets and give users alternative checkout options in Kenya.
 
-## Colaborators
-This is an individual project with no other collaborators
-
 ## Languages and Tools used
 - Java language
 - Firebase Authentication
